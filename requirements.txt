@@ -1,0 +1,16 @@
+# pyaml
+# pytorch_lightning
+opencv-python
+pandas
+# soundfile
+matplotlib
+configargparse
+# torchaudio
+torchvision
+tomlkit
+h5py
+tqdm
+seaborn
+albumentations
+torchmetrics
+segmentation_models_pytorch
